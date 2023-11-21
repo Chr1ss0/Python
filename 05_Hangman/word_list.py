@@ -1,0 +1,10 @@
+words = ['haus', 'boot', 'hund', 'katze', 'schule', 'auto', 'apfel', 'fenster', 'computer', 'telefon',
+             'tisch', 'stuhl', 'stadt', 'berge', 'wolke', 'sonne', 'mond', 'sterne', 'blume', 'gras',
+             'himmel', 'buch', 'musik', 'film', 'kaffee', 'tee', 'pizza', 'pasta', 'salat', 'kuchen',
+             'handy', 'fernseher', 'uhr', 'brille', 'kamera', 'tasche', 'schuhe', 'jacke', 'geld', 'schlüssel',
+             'freund', 'familie', 'liebe', 'glück', 'gesundheit', 'reise', 'abenteuer', 'traum', 'ziel',
+             'sport', 'spiel', 'kind', 'jahr', 'monat', 'woche', 'tag', 'morgen', 'nacht', 'heute', 'gestern',
+             'farbe', 'form', 'zahl', 'wort', 'satz', 'gedanke', 'gefühl', 'idee', 'problem', 'lösung', 'frage',
+             'antwort', 'beginn', 'ende', 'wechsel', 'zeit', 'raum', 'erinnerung', 'zukunft', 'vergangenheit',
+             'sinn', 'zweck', 'wunder', 'natur', 'umwelt', 'leben', 'tod', 'neuanfang', 'veränderung', 'hoffnung',
+             'traurigkeit', 'freude', 'angst', 'mut', 'wahrheit', 'illusion', 'phantasie', 'kunst', 'kreativität']
